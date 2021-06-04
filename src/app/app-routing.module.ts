@@ -14,7 +14,6 @@ const routes: Routes = [
   { path: 'badge', component: MaterialBadgeComponent},
   { path: 'progress', component: MaterialProgressComponent},
   { path: 'toolbar', component: MaterialToolbarComponent}
-
 ];
 
 @NgModule({
